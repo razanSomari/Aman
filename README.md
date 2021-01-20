@@ -30,13 +30,13 @@ Users can view their registered children, and they have options to: set location
 <img width="306" alt="logininterface" src="https://user-images.githubusercontent.com/54210754/105200909-57e47280-5b51-11eb-911c-bae78b393af6.png">
 
 Set location:
-<img width="306" alt="logininterface" src="https://user-images.githubusercontent.com/54210754/105200911-587d0900-5b51-11eb-9096-d281a7c76e40.png">
 
--
+<img width="306" alt="logininterface" src="https://user-images.githubusercontent.com/54210754/105200911-587d0900-5b51-11eb-9096-d281a7c76e40.png">
 
 <img width="306" alt="logininterface" src="https://user-images.githubusercontent.com/54210754/105200904-574bdc00-5b51-11eb-85a5-fe719039b429.png">
 
 Add new child:
+
 <img width="306" alt="logininterface" src="https://user-images.githubusercontent.com/54210754/105200906-57e47280-5b51-11eb-89ca-4adb612ef540.png">
 
 From the list:
